@@ -1,0 +1,126 @@
+body{
+    background: #fff;
+    color: #1c1e21;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.sec1{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-left: 100px;
+}
+.div1texting{
+    margin-top: 150px;
+    width: 40%;
+}
+.div1texting img{
+    height: 106px;
+    margin-bottom: 0;
+}
+.div1texting h2 {
+    font-size: 24px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+color: rgba(0, 0, 0, 0.726);
+margin-top: 1px;
+}
+.contain{
+    margin-right: 300px;
+}
+.div2form{
+    width: 100%;
+    border: 1px solid rgb(206, 206, 206);
+    margin-top: 150px;
+    height: 330px;
+    padding: 7px;
+    box-shadow: 1px 1px 3px 2px rgb(206, 200, 200), -1px -1px  2px rgb(206, 200, 200);
+
+}
+.email{
+    width: 350px;
+    height: 50px; 
+    margin-bottom: 15px;
+    border: 1px solid rgb(206, 200, 200);
+   
+    margin-left: 5px;
+}
+.email:hover{
+    border: 2px solid #1877f2;
+
+}
+.password{
+    width: 350px;
+    height: 50px; 
+    margin-bottom: 15px;
+    margin-left: 5px;
+
+    border: 1px solid rgb(224, 224, 224);
+
+
+
+    
+}
+.password:hover{
+    border: 2px solid #1877f2;
+
+}
+.login{
+    text-align: center;
+    padding: 5px;
+    width: 360px;
+    height: 50px; 
+    margin-bottom: 15px;
+    font-size: larger;
+    color: aliceblue;
+    background-color: #1877f2;
+    border: 1px solid #1877f2;
+    border-radius: 7px;
+}
+.login:hover{
+    opacity: 0.9;
+}
+ .a{
+    text-decoration: none;
+    color: #1877f2;
+margin-left:120px ;
+ }
+ .a:hover{
+    text-decoration:  underline;
+
+ }
+ .bo{
+    background-color: #42b72a;
+    color: white;
+    border: 1px solid #42b72a;
+    border-radius: 10px;
+    width: 200px; ;
+text-align: center;
+font-weight: bold;
+font-size: 20px;
+height: 60px;
+padding: 5px;
+margin-left: 70px;
+margin-top: 0px;
+
+ }
+ .bo a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+
+
+ }
+ .link a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+ }
+ .link a:hover{
+    text-decoration: underline;
+ }
+
+.link{
+    text-align: center;
+}
+hr{
+    color:rgb(253, 250, 250) ;
+}
